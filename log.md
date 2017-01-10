@@ -1,7 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 1: Jan 10 2017
+##### Oof! 5 days later
+
+**Today's Progress**: Working through some JavaScript algorithms on FreeCodeCamp
+
+**Thoughts:** Stayed up late at band practice. Lack of sleep makes it hard to concentrate today
+
+**Link to work:**
+
+
+
+# 100 Days Of Code - Log
+
 ### Day 1: Jan 05 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Started the initial repo for a Fallout Terminal mini-game
 
