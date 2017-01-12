@@ -3,7 +3,7 @@
 ### Day 4: Jan 12 2017
 ##### THREE IN A ROW!
 
-**Today's Progress**: Worked through some JavaScript algorithms and put the solutions on github
+**Today's Progress**: Worked through 3 JavaScript algorithms and put the solutions on github
 
 **Thoughts:** 
 
