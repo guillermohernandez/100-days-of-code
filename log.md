@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: Jan 14 2017
+##### MISSED TWO DAYS
+
+**Today's Progress**: Worked an array method for a job application
+
+**Thoughts:** 
+
+**Link to work:** [Might not be up later](http://codepen.io/guillermohernandez/pen/KagpbO)
+
+
+# 100 Days Of Code - Log
+
 ### Day 4: Jan 12 2017
 ##### THREE IN A ROW!
 
