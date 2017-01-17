@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 6: Jan 16 2017
+##### SOMETHING NEW
+
+**Today's Progress**: Docs and YUI. YUI and docs.
+
+**Thoughts:** 
+
+**Link to work:** [YUI](http://codepen.io/guillermohernandez/pen/XpjpvZ)
+
+
+# 100 Days Of Code - Log
+
+### Day 5: Jan 15 2017
+##### 
+
+**Today's Progress**: Worked with the flickr API to pull images
+
+**Thoughts:** 
+
+**Link to work:** [flickr API](http://codepen.io/guillermohernandez/pen/LxRpZQ)
+
+
+# 100 Days Of Code - Log
+
 ### Day 4: Jan 14 2017
 ##### MISSED TWO DAYS
 
