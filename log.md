@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: Jan 17 2017
+##### BACK ON TRACK
+
+**Today's Progress**: Completed 2 JavaScript algorithms and worked on form validation
+
+**Thoughts:** 
+
+**Link to work:** [YUI](http://codepen.io/guillermohernandez/pen/XpjpvZ)
+
+
 ### Day 6: Jan 16 2017
 ##### SOMETHING NEW
 
