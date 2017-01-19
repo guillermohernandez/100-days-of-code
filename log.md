@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 7: Jan 18 2017
+### Day 9: Jan 18 2017
 ##### NOW WITH 100% REAL PROGRESS
 
 **Today's Progress**: Completed 2 JavaScript algorithms
@@ -10,7 +10,7 @@
 **Link to work:** [FCC Algorithms](https://github.com/guillermohernandez/FCC-Basic-Algorithm-Scripting)
 
 
-### Day 7: Jan 17 2017
+### Day 8: Jan 17 2017
 ##### BACK ON TRACK
 
 **Today's Progress**: Completed 2 JavaScript algorithms and worked on form validation
@@ -20,7 +20,7 @@
 **Link to work:** [YUI](http://codepen.io/guillermohernandez/pen/XpjpvZ)
 
 
-### Day 6: Jan 16 2017
+### Day 7: Jan 16 2017
 ##### SOMETHING NEW
 
 **Today's Progress**: Docs and YUI. YUI and docs.
@@ -30,7 +30,7 @@
 **Link to work:** [YUI](http://codepen.io/guillermohernandez/pen/XpjpvZ)
 
 
-### Day 5: Jan 15 2017
+### Day 6: Jan 15 2017
 ##### 
 
 **Today's Progress**: Worked with the flickr API to pull images
@@ -40,7 +40,7 @@
 **Link to work:** [flickr API](http://codepen.io/guillermohernandez/pen/LxRpZQ)
 
 
-### Day 4: Jan 14 2017
+### Day 5: Jan 14 2017
 ##### MISSED TWO DAYS
 
 **Today's Progress**: Worked an array method for a job application
