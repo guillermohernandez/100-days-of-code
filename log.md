@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: Jan 18 2017
+##### NOW WITH 100% REAL PROGRESS
+
+**Today's Progress**: Completed 2 JavaScript algorithms
+
+**Thoughts:** 
+
+**Link to work:** [FCC Algorithms](https://github.com/guillermohernandez/FCC-Basic-Algorithm-Scripting)
+
+
 ### Day 7: Jan 17 2017
 ##### BACK ON TRACK
 
@@ -20,8 +30,6 @@
 **Link to work:** [YUI](http://codepen.io/guillermohernandez/pen/XpjpvZ)
 
 
-# 100 Days Of Code - Log
-
 ### Day 5: Jan 15 2017
 ##### 
 
@@ -31,8 +39,6 @@
 
 **Link to work:** [flickr API](http://codepen.io/guillermohernandez/pen/LxRpZQ)
 
-
-# 100 Days Of Code - Log
 
 ### Day 4: Jan 14 2017
 ##### MISSED TWO DAYS
@@ -44,8 +50,6 @@
 **Link to work:** [Might not be up later](http://codepen.io/guillermohernandez/pen/KagpbO)
 
 
-# 100 Days Of Code - Log
-
 ### Day 4: Jan 12 2017
 ##### THREE IN A ROW!
 
@@ -56,8 +60,6 @@
 **Link to work:** [FCC Algorithms](https://github.com/guillermohernandez/FCC-Basic-Algorithm-Scripting)
 
 
-# 100 Days Of Code - Log
-
 ### Day 3: Jan 11 2017
 ##### TWO IN A ROW!
 
@@ -67,7 +69,6 @@
 
 **Link to work:** [JavaKit](https://github.com/guillermohernandez/JavaKit)
 
-# 100 Days Of Code - Log
 
 ### Day 2: Jan 10 2017
 ##### Oof! 5 days later
@@ -78,8 +79,6 @@
 
 **Link to work:**
 
-
-# 100 Days Of Code - Log
 
 ### Day 1: Jan 05 2017
 
