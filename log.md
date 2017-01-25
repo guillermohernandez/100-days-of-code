@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: Jan 25 2017
+##### BACK AT IT
+
+**Today's Progress**: Worked on my own version of codepen. Broke when I tried to use Bulma CSS with it
+
+**Thoughts:** 
+
+**Link to work:** [codeFiddle](https://github.com/guillermohernandez/codeFiddle)
+
 ### Day 9: Jan 18 2017
 ##### NOW WITH 100% REAL PROGRESS
 
