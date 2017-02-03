@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: Feb 02 2017
+##### NEW MONTH
+
+**Today's Progress**: Finished FCC's Falsy Bouncer
+
+**Thoughts:** .filter is cool
+
+**Link to work:** [FCC Algorithms](https://github.com/guillermohernandez/FCC-Basic-Algorithm-Scripting/blob/master/falsy-bouncer.js)
+
+
 ### Day 10: Jan 25 2017
 ##### BACK AT IT
 
