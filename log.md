@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: Feb 06 2017
+##### EYES ON THE GOAL
+
+**Today's Progress**: A vanilla MVC app I'm fumbling through 
+
+**Thoughts:** 
+
+**Link to work:** [biblioteca](https://github.com/guillermohernandez/biblioteca)
+
 ### Day 11: Feb 02 2017
 ##### NEW MONTH
 
