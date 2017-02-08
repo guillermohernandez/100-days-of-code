@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: Feb 07 2017
+##### TWO IN A ROW
+
+**Today's Progress**: Completed an assignment for a quick online course in Flask
+
+**Thoughts:** 
+
+**Link to work:** [assignment 1](https://github.com/guillermohernandez/Lambda-School-assignment-1)
+
 ### Day 12: Feb 06 2017
 ##### EYES ON THE GOAL
 
