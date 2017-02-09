@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: Feb 08 2017
+##### THREE IN A ROW
+
+**Today's Progress**: Worked on a Django reboot of Showlist Austin
+
+**Thoughts:** 
+
+**Link to work:** None - nothing commited yet
+
 ### Day 13: Feb 07 2017
 ##### TWO IN A ROW
 
