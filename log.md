@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: Feb 09 2017
+##### FOUR IN A ROW
+
+**Today's Progress**: Worked on Flask course on LambdaSchool
+
+**Thoughts:** 
+
+**Link to work:** None
+
 ### Day 14: Feb 08 2017
 ##### THREE IN A ROW
 
