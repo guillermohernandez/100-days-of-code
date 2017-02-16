@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 17: Feb 16 2017
+##### TWO FOR TWO
+
+**Today's Progress**: Finished Chunky Monkey
+
+**Thoughts:** 
+
+**Link to work:** [FCC Algorithms](https://github.com/guillermohernandez/FCC-Basic-Algorithm-Scripting/blob/master/chunky-monkey.js)
+
+### Day 16: Feb 15 2017
+##### COMBO BREAK
+
+**Today's Progress**: Worked on understanding routing in a CRUD app running Mongo and Express
+
+**Thoughts:** 
+
+**Link to work:** Nothing committed
+
 ### Day 15: Feb 09 2017
 ##### FOUR IN A ROW
 
